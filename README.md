@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently migrating some repositories and products from an old account. 🚙🚙
+> [!NOTE]
+> Currently migrating some repositories and products from an old account. 🚙🚙
 
 ### GitHub
 
